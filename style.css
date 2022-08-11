@@ -1,0 +1,37 @@
+body{
+    margin: 0px;
+    background-image: linear-gradient(to left, #49B1F2, #2A558C, #335AA6 );
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35pt;
+    color: white;
+    display: flex;
+    justify-content: center;
+    
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35pt;
+    color: white;
+    text-align: center;
+    color: yellow;
+    padding: 150px;
+    
+}
+    
+ul{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 0px 15px 10px 15px;
+}
+.menu:hover{
+    cursor: pointer;
+    
+}
+
